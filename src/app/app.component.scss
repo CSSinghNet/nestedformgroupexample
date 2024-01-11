@@ -1,0 +1,21 @@
+p {
+    font-family: Lato;
+  }
+  
+  html{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  
+  .wrapper-box{ 
+      overflow-x: hidden !important;
+  
+  }
+  
+  .required-field{
+    color: red;
+     content: "*";
+     position: absolute;
+     margin-left: 5px;
+  }
